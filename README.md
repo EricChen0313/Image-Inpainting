@@ -54,7 +54,7 @@ $ git clone https://github.com/EricChen0313/Image-Inpainting.git
 
 # push the 'Terminal' button above#
 $ pip install -r requirements.txt   # Install python requirements.
-$ python ImageInpainting.py                    # Run the code.
+$ python ImageInpainting.py         # Run the code.
 
 # then it will give out the result.
 # go to check the 'OUTPUTTT.jpg' you generated.
