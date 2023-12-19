@@ -63,7 +63,7 @@ $ python ImageInpainting.py         # Run the code.
 ## Result
 
 ![Remove mole & nose ring](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/mole%20and%20nose%20ring.png)
-![Remove earring & logo](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/earring%20and%20logo.pngg)
+![Remove earring & logo](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/earring%20and%20logo.png)
 ![Remove scar & tattoo](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/scar%20and%20tattoo.png)
 
 ## What's included
