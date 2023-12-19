@@ -16,7 +16,7 @@
   - 圖像修補是一種計算機視覺和圖形技術，用於填補圖像中缺失或損壞的部分。其目標是無縫地重建缺失的信息，使修補區域在視覺上與周圍區域一致。這個過程涉及根據圖像中的可用信息，預測並生成損壞或被遮擋區域的合理內容。
   - 各種修補方法使用不同的方法，包括基於補丁的算法、深度學習技術，或兩者的結合。這些方法旨在解決一些問題，如移除不需要的對象、恢復損壞的部分，或完成圖像中的不完整場景。圖像修補在圖像編輯、修復和增強視覺內容等領域中得到應用。
 
-- 在這個 Repo 中，我們參考出自於 2018 年的<Image Inpainting for Irregular Holes Using Partial Convolutions>，並使用此方法來針對人臉以及配飾做填補。
+- 在這個 Repo 中，我們參考出自於 2018 年的"Image Inpainting for Irregular Holes Using Partial Convolutions"，並使用此方法來針對人臉以及配飾做填補。
 
 ## Table of Contents
 
@@ -63,7 +63,7 @@ $ python test.py                    # Run the code.
 ## Result
 
 ![Remove mole & nose ring](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/mole%20and%20nose%20ring.png)
-![Remove earring & logo](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/earring%20and%20logo.pngg)
+![Remove earring & logo](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/earring%20and%20logo.png)
 ![Remove scar & tattoo](https://github.com/EricChen0313/Image-Inpainting/blob/main/Image%20Inpainting/reference%20pics/scar%20and%20tattoo.png)
 
 ## What's included
