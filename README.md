@@ -71,7 +71,8 @@ $ python ImageInpainting.py         # Run the code.
 ```
 Image Inpainting
 ├── _pycache_/
-|
+├── imgs/
+├── models/
 ├── reference pics/
 │   └── earring and logo.png
 │   └── mole and nose ring.png
@@ -85,6 +86,7 @@ Image Inpainting
 ├── OUTPUTTT.jpg       # the result
 ├── evaluation.py
 ├── input.jpg
+├── main.py
 ├── net.py
 ├── opt.py
 ├── requirements.txt
@@ -98,3 +100,4 @@ Image Inpainting
 - [the dataset of human face](https://www.kaggle.com/datasets/ashwingupta3012/human-faces)
 - [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)
 - [詳解 Partial Convolution](https://zhuanlan.zhihu.com/p/519446359)
+- [Official Partial Convolution Layer for Padding and Image Inpainting](https://github.com/NVIDIA/partialconv)
