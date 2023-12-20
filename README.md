@@ -98,4 +98,3 @@ Image Inpainting
 - [the dataset of human face](https://www.kaggle.com/datasets/ashwingupta3012/human-faces)
 - [Image Inpainting for Irregular Holes Using Partial Convolutions](https://arxiv.org/pdf/1804.07723.pdf)
 - [詳解 Partial Convolution](https://zhuanlan.zhihu.com/p/519446359)
-- [pytorch-inpainting-with-partial-conv](https://github.com/naoto0804/pytorch-inpainting-with-partial-conv)
