@@ -86,7 +86,10 @@ Image Inpainting
 ├── OUTPUTTT.jpg       # the result
 ├── evaluation.py
 ├── input.jpg
-├── main.py
+├── train.py
+├── generate_data.py
+├── places2.py
+├── loss.py
 ├── net.py
 ├── opt.py
 ├── requirements.txt
