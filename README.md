@@ -2,7 +2,7 @@
 
 ## English version
 
-- Whate is Image Inpainting?
+- What is Image Inpainting?
 
   - Image inpainting is a computer vision and graphics technique used to fill in missing or damaged parts of an image. The goal is to reconstruct the missing information seamlessly, making the inpainted regions visually consistent with the surrounding areas. This process involves predicting and generating plausible content for the damaged or masked regions based on the available information in the image.
   - Various inpainting methods utilize different approaches, such as patch-based algorithms, deep learning techniques, or a combination of both. These methods aim to address issues like removing unwanted objects, restoring damaged portions, or completing incomplete scenes in images. Image inpainting finds applications in image editing, restoration, and the enhancement of visual content.
